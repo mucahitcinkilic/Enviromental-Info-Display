@@ -1,0 +1,12 @@
+Remove Pin=J?-4 From Net=GND
+Remove Pin=U-18 From Net=GND
+Remove Pin=U-31 From Net=GND
+Remove Pin=U-47 From Net=GND
+Remove Pin=U-63 From Net=GND
+Change Component Footprint: Designator=D? Old Footprint=FYQ-3661AS-11-L7.5 New Footprint=LED_LDQ-M3604RI
+Change Component Footprint: Designator=U? Old Footprint=TM1637 New Footprint=DHT11
+Change Component Comment: Designator=D? Old Comment=FYQ-3661AS-11-L7.5 New Comment=LDQ-M3604RI
+Change Component Comment: Designator=U? Old Comment=TM1637 New Comment=DHT11
+Change Pin Designator/Name:  Old Designator=C?-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=U?-2 Old Name=VOUT New Designator =VIN New Name=3
+Change Pin Designator/Name:  Old Designator=U?-3 Old Name=VIN New Designator =ADJ_/_GND New Name=1

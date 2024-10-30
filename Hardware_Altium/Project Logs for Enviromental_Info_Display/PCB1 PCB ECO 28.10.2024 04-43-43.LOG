@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=NetD3_11 Pin=U2-2
+Removed Pin From Net: NetName=NetD3_7 Pin=U2-3
+Removed Pin From Net: NetName=NetD3_4 Pin=U2-4
+Removed Member From Class: ClassName=Display-RTC Member=U2
+Added Component: Designator=U?(TM1637)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TM1637/Titan+Micro+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Titan Micro Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TM1637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TM1637/Titan+Micro+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D4-13
+Add Pin To Net: Unknown Pin: Pin D4-14
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetD3_11 Pin=U?-2
+Added Pin To Net: NetName=NetD3_7 Pin=U?-3
+Added Pin To Net: NetName=NetD3_4 Pin=U?-4
+Added Pin To Net: NetName=NetD3_2 Pin=U?-5
+Added Pin To Net: NetName=NetD3_1 Pin=U?-6
+Added Pin To Net: NetName=NetD3_10 Pin=U?-7
+Added Pin To Net: NetName=NetD3_5 Pin=U?-8
+Added Pin To Net: NetName=NetD3_3 Pin=U?-9
+Added Pin To Net: NetName=NetD3_6 Pin=U?-12
+Added Pin To Net: NetName=NetD3_8 Pin=U?-13
+Added Pin To Net: NetName=NetD3_9 Pin=U?-14
+Added Pin To Net: NetName=NetD3_12 Pin=U?-15
+Added Pin To Net: NetName=5V Pin=U?-16
+Added Pin To Net: NetName=D1_DIO Pin=U?-17
+Added Pin To Net: NetName=D1_CLK Pin=U?-18
+Added Member To Class: ClassName=Display-RTC Member=Component U? TM1637

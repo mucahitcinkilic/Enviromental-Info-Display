@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=D4 Old Footprint=LED_LDQ-M3604RI New Footprint=FYQ-3661AS-11-L7.5
+Change Component Comment : Designator=D4 Old Comment=LDQ-M3604RI New Comment=FYQ-3661AS-11-L7.5
+Change Component Designator: OldDesignator=D4 NewDesignator=D8
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD4_3 New Net Name=NetD8_3
+Change Net Name : Old Net Name=NetD4_4 New Net Name=NetD8_4
+Change Net Name : Old Net Name=NetD4_5 New Net Name=NetD8_5
+Change Net Name : Old Net Name=NetD4_6 New Net Name=NetD8_6
+Change Net Name : Old Net Name=NetD4_7 New Net Name=NetD8_7
+Change Net Name : Old Net Name=NetD4_8 New Net Name=NetD8_8
+Change Net Name : Old Net Name=NetD4_9 New Net Name=NetD8_9
+Change Net Name : Old Net Name=NetD4_10 New Net Name=NetD8_10
+Change Net Name : Old Net Name=NetD4_11 New Net Name=NetD8_11
+Change Net Name : Old Net Name=NetD4_12 New Net Name=NetD8_12
+Added Pin To Net: NetName=NetD8_13 Pin=D8-13
+Added Pin To Net: NetName=NetD8_13 Pin=U4-2
+Added Net: Name=NetD8_13
+Added Pin To Net: NetName=NetD8_14 Pin=D8-14
+Added Pin To Net: NetName=NetD8_14 Pin=U4-7
+Added Net: Name=NetD8_14

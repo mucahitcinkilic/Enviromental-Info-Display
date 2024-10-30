@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Added Member To Class: ClassName=Power-MCU Member=Component J4 282834-8
+Added Member To Class: ClassName=Power-MCU Member=Component J5 282834-6
+Added Member To Class: ClassName=Power-MCU Member=Component J7 282834-6
+Added Member To Class: ClassName=Power-MCU Member=Component J8 282834-8
+Added Member To Class: ClassName=Power-MCU Member=Component J9 282834-8
+Added Member To Class: ClassName=Power-MCU Member=Component J10 282834-6
+Added Member To Class: ClassName=Power-MCU Member=Component J11 282834-6
